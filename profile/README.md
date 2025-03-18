@@ -2,7 +2,7 @@
 
 ## Our Focus
 
-Studio Fulcrum creates 2D games with distinctive visual identities backed by robust technical foundations.
+We're currently working on our 2D debut title. Stay tuned for updates!
 
 ## Technical Foundation
 
@@ -24,4 +24,4 @@ Our artists and engineers work closely to ensure our visual style is both striki
 
 ---
 
-*Studio Fulcrum: The pivot point of computer graphics.*
+*Studio Fulcrum - the pivot point of computer graphics.*
