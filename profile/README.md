@@ -24,4 +24,4 @@ Our artists and engineers work closely to ensure our visual style is both striki
 
 ---
 
-*Studio Fulcrum: Where Art Meets Technology*
+*Studio Fulcrum: The pivot point of computer graphics.*
